@@ -1,1 +1,4 @@
 test
+
+this is file2
+"Updating with Bash…"
