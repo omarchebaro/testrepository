@@ -1,6 +1,12 @@
 test
 
+
+this is file2
+"Updating with Bash…"
+
+
 this is file1
 Update with Tortoise…
+
 
 gggggg
